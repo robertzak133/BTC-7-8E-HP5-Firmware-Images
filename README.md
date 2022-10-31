@@ -46,3 +46,6 @@ Display should show "UPGRADING".  Loading the firmware should take about 20 seoc
 Camera will then "Reboot" with new firmware.
 
 Note that updating firmware resets the camera configuration settings, including the date and time. 
+
+## Reinstalling Factory Firmware
+If, for any reason, you want to get back to the factory firmware, choose the "Baseline" entry in the table above to get the baseline factory image, and install that
