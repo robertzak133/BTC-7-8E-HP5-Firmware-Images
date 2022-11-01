@@ -11,7 +11,7 @@ See the following posts for backround, context, and additional instruction:
 
 | BTC-7E-HP5      | BTC-8E-HP5     | Bundle A    | DSLR Trigger |
 | ----------------| ---------------| ------------|--------------| 
-| [Baseline](https://github.com/robertzak133/BTC-7-8E-HP5-Firmware-Images/tree/main/BTC-7E-HP5-Firmware-Images/Baseline)    | [Baseline](https://github.com/robertzak133/BTC-7-8E-HP5-Firmware-Images/tree/main/BTC-7E-HP5-Firmware-Images/Baseline)   |  no         | no          | 
+| [Baseline](https://github.com/robertzak133/BTC-7-8E-HP5-Firmware-Images/tree/main/BTC-7E-HP5-Firmware-Images/Baseline)    | [Baseline](https://github.com/robertzak133/BTC-7-8E-HP5-Firmware-Images/tree/main/BTC-8E-HP5-Firmware-Images/Baseline)   |  no         | no          | 
 | [BA](https://github.com/robertzak133/BTC-7-8E-HP5-Firmware-Images/tree/main/BTC-7E-HP5-Firmware-Images/BA)          | [BA](https://github.com/robertzak133/BTC-7-8E-HP5-Firmware-Images/tree/main/BTC-8E-HP5-Firmware-Images/BA)         | yes         | no          |
 | [BA_DSLR](https://github.com/robertzak133/BTC-7-8E-HP5-Firmware-Images/tree/main/BTC-7E-HP5-Firmware-Images/BA_DSLR)     | [BA_DSLR](https://github.com/robertzak133/BTC-7-8E-HP5-Firmware-Images/tree/main/BTC-8E-HP5-Firmware-Images/BA_DSLR)    | yes         | yes         |
 
