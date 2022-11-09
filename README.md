@@ -41,7 +41,7 @@ On BTC-7E-HP5 or BTC-8E-HP5
 - Select "FW UPGRADE"
 - Select "YES"
 
-Display should show "UPGRADING".  Loading the firmware should take about 20 seoconds. DO NOT TURN OFF OR REMOVE BATTERIES DURING THIS TIME! (this will "brick" the camera).  
+Display should show "UPGRADING".  Loading the firmware should take about 20 seconds. DO NOT TURN OFF OR REMOVE BATTERIES DURING THIS TIME! (this will "brick" the camera).  
 
 Camera will then "Reboot" with new firmware.
 
