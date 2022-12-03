@@ -3,7 +3,7 @@ This repository contains firmware images for BTC-7E-HP5 and BTC-8E-HP5 Browning 
 
 See the following posts for backround, context, and additional instruction:
 
-- [Adding Features to Browning HP5 Trail Camera Firmware] (https://winterberrywildlife.ouroneacrefarm.com/2022/11/14/adding-features-to-browning-elite-hp5-firmware/)
+- [Adding Features to Browning HP5 Trail Camera Firmware](https://winterberrywildlife.ouroneacrefarm.com/2022/11/14/adding-features-to-browning-elite-hp5-firmware/)
 
 - [Using a Trail Camera to Trigger a DSLR Camera](https://winterberrywildlife.ouroneacrefarm.com/2021/12/03/using-trail-camera-to-trigger-a-dslr-camera/)
 
