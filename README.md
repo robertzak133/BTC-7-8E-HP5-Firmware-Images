@@ -3,7 +3,7 @@ This repository contains firmware images for BTC-7E-HP5 and BTC-8E-HP5 Browning 
 
 See the following posts for backround, context, and additional instruction:
 
-- [Firmware Hacking the Browning HP5] ()
+- [Adding Features to Browning HP5 Trail Camera Firmware] (https://winterberrywildlife.ouroneacrefarm.com/2022/11/14/adding-features-to-browning-elite-hp5-firmware/)
 
 - [Using a Trail Camera to Trigger a DSLR Camera](https://winterberrywildlife.ouroneacrefarm.com/2021/12/03/using-trail-camera-to-trigger-a-dslr-camera/)
 
@@ -19,9 +19,9 @@ See the following posts for backround, context, and additional instruction:
 * BTC-7e-HP5: Directory in GitHub Site where image for BTC-7E-HP5 can be found
 * BTC-8e-HP5: Direcotry in GitHub Site where image for BTC-8E-HP5 can be found
 * BA (Bundle A) : A set of customizations aimed at improving overall camera usability 
- * Custom Ribbon: In "Playback" menu, the date and time of the photo/video are shown is larger font at the bottom of the playback screen, making it easier to tell when the image was taken when reviewing in the field. 
- * Night Video Limit: The default manufacturer firmware limits night time (flash illuminated) videos to 20 Seconds.  This option removes that limit, allowing illuminated videos of the same duration as daylight videos.
- * Custom Info Strip: Adds "seconds" to the time of day in the info strip.  
+ ** Custom Ribbon: In "Playback" menu, the date and time of the photo/video are shown is larger font at the bottom of the playback screen, making it easier to tell when the image was taken when reviewing in the field. 
+ ** Night Video Limit: The default manufacturer firmware limits night time (flash illuminated) videos to 20 Seconds.  This option removes that limit, allowing illuminated videos of the same duration as daylight videos.
+ ** Custom Info Strip: Adds "seconds" to the time of day in the info strip.  
 * DSLR Trigger: Causes the "aim led" to turn on whenever a photo or video is taken.  This LED can be used to trigger a DSLR camera, while also allowing the trail camera to take photos or video.
 
 
