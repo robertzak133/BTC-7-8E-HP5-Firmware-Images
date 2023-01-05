@@ -1,11 +1,7 @@
 # BTC-7-8-E-HP5-Firmware-Images
 This repository contains firmware images for BTC-7E-HP5 and BTC-8E-HP5 Browning Trail Cameras.
 
-** 2023-01-04: Images Temporarily Unavailable while I work on a bug **
-
-I discovered a bug early in the new year which prevents a camera with the new firmware from being able to upload new firmware.  Have taken the images off line for the time being.  Will post a fix and hopefully a workaround ASAP
-
-
+There was a bug in the firmware labeled "WWL7EH5_221210A" (for the 7E-HP5) and "WWL8EH5_221210A" (for the 8E-HP5) which prevents new firmware from being loaded.  This was caused by a new data structure in the menu system which I did not realize had to be terminated by a null entry.  Firmware versions "WWL7EH5_230104A" (for the 7E-HP5) and "WWL8E5H_230104A" (for the 8E-HP5) fix this problem.  Unfortunately, I do not know of a workaround for the earlier bug.  If you installed the buggy version in your camera, and now would like to load new firmware, please let me know in comments/issues below. I have a possible plan.
 
 See the following posts for backround, context, and additional documentation:
 - [New Optional Features for Browning HP5 Trail Camears](https://winterberrywildlife.ouroneacrefarm.com/2022/12/19/new-optional-features-for-browning-hp5-trail-cameras/)
